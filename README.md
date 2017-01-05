@@ -1,12 +1,12 @@
 ##Requirements
 
-* A network connection
-* Project only available for Android (Pull request available)
+* Connexion Internet
+* Mini Projet disponible uniquement sur Android
 
 
-## Wifi Toulouse : The nodes_modules
+## Wifi Toulouse :  nodes_modules
 
-This is the presents node_modules that I use in this project.
+Module utilisé pour la gestion de la map
 
 * [`react-native-maps`] (https://github.com/lelandrichardson/react-native-maps)
 
@@ -21,6 +21,9 @@ Ainsi les emplacements avec accès internet ne sont pas inscrit dans le dur dans
 
 ##Screens App 
 
+![Android4] (https://github.com/MayeuldP/react-native-Wifi-Toulouse/blob/master/screens/accueil.png)
+![Android4] (https://github.com/MayeuldP/react-native-Wifi-Toulouse/blob/master/screens/map.png)
 
-![Android4] (https://github.com/MayeuldP/MovieProject/blob/master/screens/accueil.png)
-![Android4] (https://github.com/MayeuldP/MovieProject/blob/master/screens/map.png)
+##APK
+
+* Vous pouvez télécharger l'APK de l'application, disponible dans le dossier "APK" pour avoir une version stable. 
