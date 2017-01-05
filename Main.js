@@ -15,7 +15,6 @@ export default class Main extends Component {
     constructor(props){
       super(props);
 
-//      const markerInfo = [];
       fetch('https://data.toulouse-metropole.fr/api/records/1.0/search/?dataset=bornes-wi-fi')
             .then((response) => response.json())
             .then((responseJson) => this.handlerResponse(responseJson))
@@ -24,10 +23,6 @@ export default class Main extends Component {
             markerInfo : [], loaded : false
         };
     }
-
-   /*   componentDidMount(){
-          this.setState({loaded: true});
-}*/
 
      render() {
         const markers = this.state.markerInfo.map((markerInfo) =>
