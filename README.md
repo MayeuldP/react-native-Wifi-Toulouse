@@ -21,8 +21,7 @@ Ainsi les emplacements avec accès internet ne sont pas inscrit dans le dur dans
 
 ##Screens App 
 
-![Android4] (https://github.com/MayeuldP/react-native-Wifi-Toulouse/blob/master/screens/accueil.png)
-![Android4] (https://github.com/MayeuldP/react-native-Wifi-Toulouse/blob/master/screens/map.png)
+<img src="../master/screens/accueil.png" width="200px"> <img src="../master/screens/map.png" width="200px">
 
 ##APK
 
